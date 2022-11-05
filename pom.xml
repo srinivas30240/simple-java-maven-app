@@ -50,7 +50,8 @@
         <version>3.0.0-M3</version>
         <executions>
           <execution>
-            <id>enforce-maven</id>
+           <!-- <id>enforce-maven</id>-->
+            <id>default-cli</id>
             <goals>
               <goal>enforce</goal>
             </goals>
